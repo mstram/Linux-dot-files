@@ -1,0 +1,5 @@
+PS1='\033]0;Nd2 54.187.222.216    172.31.28.61 \007 `pwd`>\u \$ '
+alias l="ls -l"
+alias sb="source ~/.bashrc"
+alias vb="vi ~/.bashrc"
+alias df="df -h"
